@@ -1,5 +1,6 @@
 //importing action types
 import {ADD_TODO, REMOVE_TODO, TOGGLE_TODO, SET_VISIBILITY_FILTER} from './actionTypes.js'
+
 //import other constants
 import {VisibilityFilters} from './actionTypes.js'
 
